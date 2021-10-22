@@ -1,4 +1,4 @@
-! [Mod thumbnail] (/thumbnail.png)
+![Mod thumbnail](/thumbnail.png)
 
 # Simple Wood Liquefaction
 
