@@ -1,0 +1,45 @@
+Version: 2.2.0
+Date: 22.10.2021
+  General:
+    - Matt's Lib is no longer a required dependency
+    - Updated thumbnail graphic
+    - Added a github page for the mod
+  Misc:
+    - Made a small change to the description of the mod
+---------------------------------------------------------------------------------------------------
+Version: 2.1.0
+Date: 13.04.2021
+  Compatibility:
+    - Updated to Factorio version 1.1
+---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 28.09.2020
+  Compatibility:
+    - Updated to Factorio version 1.0
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 13.06.2020
+  General:
+    - Updated graphics to use new 0.18 textures
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 08.03.2020
+  Compatibity:
+    - Updated to Factorio version 0.18
+  General:
+    - Changed author name to match my new name
+  Balancing:
+    - Liquefacted Wood has now been given a fuel value (1.5MJ) and can be used as a liquid fuel for any mod with liquid fuel burners/generators
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 16.11.2019
+  Balancing:
+    - Now 5 wood is required to make 1 piece on solid fuel instead of 7
+  Bugfix:
+    - Chemical plants should now show the correct colour for the wood liquefaction and solid fuel from wood recipes
+
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 9.11.2019
+  General:
+    - Mod Released
