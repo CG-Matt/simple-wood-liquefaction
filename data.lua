@@ -9,8 +9,6 @@ data:extend(
 		flow_color = {r=0.57, g=0.392, b=0.114},
 		icon = "__simple-wood-liquefaction__/graphics/liquefacted-wood.png",
 		icon_size = 64, icon_mipmaps = 4,
-		-- pressure_to_speed_ratio = 0.4,
-		-- flow_to_energy_ratio = 0.59,
 		subgroup = "fluid",
 		order = "w[wood]"
 	},
@@ -62,7 +60,10 @@ data:extend(
 		{
 			{type = "fluid", name = "liquefacted-wood", amount = 5}
 		},
-		result = "solid-fuel"
+		results =
+		{
+			{type = "item", name = "solid-fuel", amount = 1}
+		}
 	},
 	{
 		type = "technology",
