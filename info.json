@@ -1,10 +1,10 @@
 {
 	"name": "simple-wood-liquefaction",
-	"version": "3.0.0",
+	"version": "4.0.0",
 	"title": "Simple Wood Liquefaction",
 	"author": "CG-Matt",
 	"homepage": "https://github.com/CG-Matt/simple-wood-liquefaction",
 	"description": "Simple and lightweight mod to turn wood into solid fuel",
-	"factorio_version": "2.0",
-	"dependencies": ["base >= 2.0", "? matts-lib >= 0.6.0"]
+	"factorio_version": "2.1",
+	"dependencies": ["base >= 2.1", "? matts-lib >= 0.7.0"]
 }

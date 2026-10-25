@@ -1,3 +1,9 @@
+Version: 4.0.0
+Date: 25.10.2026
+  Compatibility:
+    - Updated to Factorio version 2.1
+    - Updated optional Matt's Library dependency to version to 0.7.0.
+---------------------------------------------------------------------------------------------------
 Version: 3.0.0
 Date: 03.12.2024
   Compatibility:

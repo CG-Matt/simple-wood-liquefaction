@@ -8,15 +8,15 @@ data:extend(
 		base_color = {r=0.57, g=0.392, b=0.114},
 		flow_color = {r=0.57, g=0.392, b=0.114},
 		icon = "__simple-wood-liquefaction__/graphics/liquefacted-wood.png",
-		icon_size = 64, icon_mipmaps = 4,
+		icon_size = 64,
 		subgroup = "fluid",
 		order = "w[wood]"
 	},
 	{
 		type = "recipe",
-		category = "chemistry",
+		categories = { "chemistry" },
 		name = "wood-liquefaction",
-		icon_size = 64, icon_mipmaps = 4,
+		icon_size = 64,
 		icon = "__simple-wood-liquefaction__/graphics/wood-liquefaction.png",
 		subgroup = "fluid-recipes",
 		order = "a[oil-processing]-d[wood-liquefaction]",
@@ -41,9 +41,9 @@ data:extend(
 	},
 	{
 		type = "recipe",
-		category = "chemistry",
+		categories = { "chemistry" },
 		name = "solid-fuel-from-wood",
-		icon_size = 64, icon_mipmaps = 4,
+		icon_size = 64,
 		icon = "__simple-wood-liquefaction__/graphics/solid-fuel-from-wood.png",
 		subgroup = "fluid-recipes",
 		order = "b[fluid-chemistry]-f[solid-fuel-from-wood]",
@@ -68,7 +68,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "wood-liquefaction",
-		icon_size = 256, icon_mipmaps = 4,
+		icon_size = 256,
 		icon = "__base__/graphics/technology/oil-processing.png",
 		effects =
 		{
